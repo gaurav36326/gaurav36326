@@ -98,7 +98,7 @@ Passionate about building scalable apps, clean architecture, and fast UIs.
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gourav%20Sharma-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gourav-sharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gourav%20Sharma-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gourav7015)
 [![GitHub](https://img.shields.io/badge/GitHub-gaurav36326-black?style=for-the-badge&logo=github)](https://github.com/gaurav36326)
 [![Mail](https://img.shields.io/badge/Email-gauravs36326%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravs36326@gmail.com)
 
